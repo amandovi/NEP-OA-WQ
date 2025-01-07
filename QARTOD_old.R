@@ -11,6 +11,8 @@ testnum = 14
 testrange = 1:testnum
 
 # Testing Github here: downloaded pull/edit/push
+test2num = 15
+test2range = 1:test2num
 
 ### Below I copied specific sections from older file (early 2024) where I attempted to write QARTOD tests from when I had data from 5 NEPs (Tampa, Coastal Bend, Casco, Barnegat, and Tillamook)
 
