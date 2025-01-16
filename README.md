@@ -7,7 +7,7 @@ The purpose of this repository is to store shared R code for working with data f
 
 File naming conventions:
 The prefix of a file dictates the file's category:
-- **QA_**: scripts containing R code for performing QA/QC and filtering of data
+- **qaqc_**: scripts containing R code for performing QA/QC and filtering of data
 - **calc_**: scripts containing R code for running analysis on the data. This includes performing carbonate calculations, calculating uncertainties, or other statistical calculations.
 - **plot_**: scripts containing R code for plotting visualizations of data
 
