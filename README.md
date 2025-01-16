@@ -10,6 +10,7 @@ The prefix of a file dictates the file's category:
 - **QA_**: scripts containing R code for performing QA/QC and filtering of data
 - **calc_**: scripts containing R code for running analysis on the data. This includes performing carbonate calculations, calculating uncertainties, or other statistical calculations.
 - **plot_**: scripts containing R code for plotting visualizations of data
+
 Secondary categories:
 - **awm_**: scripts written by Andrew for testing, practice, or reference material
 - **srp_**: scripts written by Steve for testing, practice, or reference material
