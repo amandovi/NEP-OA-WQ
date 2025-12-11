@@ -1,6 +1,6 @@
 # README
 
-This entire Repository has been CLONED over to USEPA/NEP-Ocean-Acidification as of January 17, 2025.  Please do not make any updates to THIS repository, rather use the one under the USEPA directory. If you do not have access to that repository, please email Andrew Mandovi (mandovi.andrew@epa.gov). 
+This entire Repository has been CLONED over to USEPA/NEP-Water-Quality as of January 17, 2025.  Please do not make any updates to THIS repository, rather use the one under the USEPA directory. If you do not have access to that repository, please email Andrew Mandovi (mandovi.andrew@epa.gov). 
 
 The purpose of this repository is to store shared R code for working with data from National Estuary Program (NEP) monitoring sites to: 
 1. Filtering and QA/QC-ing data for analysis
